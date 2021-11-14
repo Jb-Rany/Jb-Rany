@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**Jb-Rany/Jb-Rany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rani Jebali, an ICT engineering student at the Higher School of Communication of Tunis(SUPCOM). I'm keen on learning everything related to Artificial intelligence and Data Science.
 
-Here are some ideas to get you started:
+## 🔭 I’m currently working on
+* Reinforcement Learning Project
+* NLP Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning
+* Cloud Data Engineer Professional Certificate
+* React
+* Flask
+
+## :checkered_flag: SKILLS
+### Languages
+* Python
+* C/C++
+* HTML
+* CSS3
+* JS
+* JAVA
+
+### Databases
+* MySql
+* MongoDB
