@@ -8,7 +8,7 @@ I'm Rani Jebali, an ICT engineering student at the Higher School of Communicatio
 
 ## 🌱 I’m currently learning
 * Cloud Data Engineer Professional Certificate
-* React
+* ReactJS
 * Flask
 
 ## :checkered_flag: SKILLS
